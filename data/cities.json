@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,68 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "cityName": "Pedralba de la Praderia",
+      "country": "Spain",
+      "date": "2026-08-27T03:14:49.595Z",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": "41.96949439668063",
+        "lng": "-6.6157193515860895"
+      },
+      "id": "lyTB6jCCyKw"
+    },
+    {
+      "cityName": "Aldeanueva de Guadalajara",
+      "country": "Spain",
+      "date": "2026-08-27T03:23:45.425Z",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": "40.697299008636755",
+        "lng": "-3.0541992187500004"
+      },
+      "id": "TzHPADAmKZc"
+    },
+    {
+      "cityName": "Aldeanueva de Guadalajara",
+      "country": "Spain",
+      "date": "2026-08-27T03:23:45.425Z",
+      "emoji": "🇪🇸",
+      "notes": "sij",
+      "position": {
+        "lat": "40.697299008636755",
+        "lng": "-3.0541992187500004"
+      },
+      "id": "c2Q5952grf0"
+    },
+    {
+      "cityName": "Aldeanueva de Guadalajara",
+      "country": "Spain",
+      "date": "2026-08-27T03:23:45.425Z",
+      "emoji": "🇪🇸",
+      "notes": "sij",
+      "position": {
+        "lat": "40.697299008636755",
+        "lng": "-3.0541992187500004"
+      },
+      "id": "JcxjCI8Z8DI"
+    },
+    {
+      "cityName": "Zelfana",
+      "country": "Algeria",
+      "date": "2026-08-27T03:28:58.848Z",
+      "emoji": "🇩🇿",
+      "notes": "",
+      "position": {
+        "lat": "32.491230287947594",
+        "lng": "4.152832031250001"
+      },
+      "id": "WsMXZ_j8cG0"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
